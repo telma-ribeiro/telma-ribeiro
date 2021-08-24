@@ -1,6 +1,6 @@
 <!-- Hi there 👋 -->
 
-![capa_github_TelmaMoreira](https://user-images.githubusercontent.com/51045627/130608037-abac12c4-cf74-4fff-a472-129dad8f2b37.png)
+![Banner][capa_github_TelmaMoreira](https://user-images.githubusercontent.com/51045627/130608037-abac12c4-cf74-4fff-a472-129dad8f2b37.png)
 ![dev](https://user-images.githubusercontent.com/51045627/129442806-2123dc1a-9f3c-4deb-9434-6f031ddee10d.png)
 
 <!--
